@@ -1,20 +1,20 @@
 h1 {
     font-size: 48px;
-    color: rgb(71, 62, 62);
+    color: #473e3e;
     margin: 12px; 
 }
 
 a {
     padding: 12px;
-    background-color: rgb(167,1,78);
-    color: aliceblue;
-    border: 1px solid rgb(167,1, 78);
+    background-color: #a7014e;
+    color: #f0f8ff;
+    border: 1px solid #a7014e;
     border-radius: 4px;
     font-size: 24px;
 }
 
 a:hover {
-    background-color: rgb(180, 12, 90);
+    background-color: #b40c5a;
     text-decoration: none;
 }
 
@@ -23,7 +23,7 @@ ol {
 }
 
 li {
-    background-color: rgb(223, 136, 124);
+    background-color: #df887c;
     border-radius: 6px;
     margin: 32px;
     padding: 2px 5px 2px 5px;
