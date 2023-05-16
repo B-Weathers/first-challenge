@@ -1,22 +1,25 @@
-body{
-    background-color: #e9d7cf;
-    text-align: center;
+body {
+  background-color: #e9d7cf;
+  text-align: center;
 }
 
-h1{
-    font-family: 'oswald',sans-serif;
+h1 {
+  font-family: "oswald", sans-serif;
+}
+#description {
+  margin-bottom: 36px;
 }
 
 p {
-    font-family: 'Fira Sans', sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 a {
-font-family: 'Fira Sans', sans-serif;
-text-decoration: none;
-color: #a7014e ;
+  font-family: "Fira Sans", sans-serif;
+  text-decoration: none;
+  color: #a7014e;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
